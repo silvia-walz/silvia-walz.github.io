@@ -1,1 +1,0 @@
-Herunterladen von github (remote repository) : git clone https://github.com/silvia-walz/silvia-walz.github.io.git
