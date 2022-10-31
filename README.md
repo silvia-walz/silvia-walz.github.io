@@ -15,7 +15,7 @@
     Das nächste mal wenn du pushst solltest du einmalig nach einem Access Token (Option Token) gefragt werden.  
     Einfach das Token eingeben und fertig.
    ## 4. clone repository in VSCode
-    ![](https://github.com/silvia-walz/silvia-walz.github.io/blob/main/readme_images/git_clone_1.png)
-    ![](https://github.com/silvia-walz/silvia-walz.github.io/blob/main/readme_images/git_clone_2.png)
-    ![](https://github.com/silvia-walz/silvia-walz.github.io/blob/main/readme_images/git_clone_3.png)
+![](https://github.com/silvia-walz/silvia-walz.github.io/blob/main/readme_images/git_clone_1.png)
+![](https://github.com/silvia-walz/silvia-walz.github.io/blob/main/readme_images/git_clone_2.png)
+![](https://github.com/silvia-walz/silvia-walz.github.io/blob/main/readme_images/git_clone_3.png)
 
