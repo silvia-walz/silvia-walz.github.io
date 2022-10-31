@@ -25,3 +25,11 @@ Einfach das Token eingeben und fertig.
 
 ![](https://github.com/silvia-walz/silvia-walz.github.io/blob/main/readme_images/git_clone_3.png)
 
+# Java Script Libraries
+### Bootstrap
+[Dokumentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- Verschiedene User Interface Elemente
+- Layouts
+- Themes
+### jQuery
+[Dokumentation](https://api.jquery.com/)
