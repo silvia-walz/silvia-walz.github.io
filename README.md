@@ -1,5 +1,6 @@
 # Setup einmalig
 ### Access token
+[Link](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-personal-access-token)
 # Wie öffne ich ein Terminal
 ### in VSCode -> Strg+Shift+ö oder Menü -> Terminal -> New Terminal
 # Setup einmalig pro PC
