@@ -1,0 +1,58 @@
+#section_1 {
+    background-color: bisque;
+}
+
+#section_2 {
+    background-color: burlywood;
+}
+
+#section_3 {
+    background-color: chocolate;
+}
+
+#section_4 {
+    background-color: rgb(98, 218, 188);
+}
+
+#section_5 {
+    background-color: rgb(224, 141, 224);
+}
+
+section {
+    min-height: 100vh
+}
+
+nav#toc {
+    top: 5%;
+    width: calc(3% + 15px);
+    right: 10%;
+}
+
+.sticky {
+    position: sticky;
+    float: right;
+    top: 0;
+    width: 100%;
+}
+
+.nav>li>a {
+    padding-left: 3px;
+    padding-right: 15px;
+    border-left-width: 2px;
+    border-left-color: transparent;
+    transition: padding-left, padding-right 200ms, 200ms;
+}
+
+.nav>li>a:hover {
+    padding-left: 15px;
+    padding-right: 3px;
+    border-left-width: 2px;
+    border-left-color: rgb(161, 50, 205);
+    border-left-style: solid;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-color: rgb(112, 15, 116);
+    text-decoration-thickness: auto;
+    background-color: transparent;
+    transition: padding-left, padding-right 200ms, 200ms;
+}
